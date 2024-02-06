@@ -1,0 +1,5 @@
+res://node.tscn
+res://player.tscn
+res://player.gd
+res://player_spawner_area.gd
+res://player_spawner_area.tscn
